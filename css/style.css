@@ -163,7 +163,8 @@ nav ul li a .logo-img {
 
 .section {
   justify-content: center;
-  background-color:#f5f0f0
+  background-color:#A5CDCD;
+  border-color:#A5CDCD;
 }
 
 .section h2 {
@@ -220,7 +221,7 @@ nav ul li a .logo-img {
 
 .footer {
   margin-top: 80px;
-  border-top: 1px solid #515151;
+  border-top: 1px solid #A5CDCD;
 }
 
 .copyright {

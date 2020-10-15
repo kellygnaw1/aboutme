@@ -34,11 +34,11 @@ nav ul li a .logo-img {
   border-radius: 50%;
 }
 
-.main {
+/*.main {
 	height: 100vh;
   background-color: #12CBC4;
   margin-bottom: 50px;
-}
+}*/
 
 .link {
   padding: 12px 16px 12px 16px;
@@ -78,7 +78,6 @@ nav ul li a .logo-img {
   width: 100vw;
   vertical-align: middle;
   display: table-cell;
-  background-color: #12CBC4;
 }
 
 .top h1 {

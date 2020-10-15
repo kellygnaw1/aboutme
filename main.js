@@ -1,11 +1,11 @@
 
-var roles = [ "UCSB Math Major", "Lorem ipsum", "Mauris faucibus", "Class aptent taciti" ]
+var roles = [ "Mathematician", "Developer", "Baker", "Music Enthusiast" ]
 var roleElement = $("#role");
 
 var counter = 0;
 setInterval(function() {
 	changeRoles(roleElement);
-}, 1000);
+}, 3000);
 
 function changeRoles(e) {
 	e.fadeOut(function() {

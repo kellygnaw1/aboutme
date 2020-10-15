@@ -80,6 +80,10 @@ nav ul li a .logo-img {
   display: table-cell;
 }
 
+.top iframe{
+  padding-right: 50px;
+}
+
 .top h1 {
   font-size: 80px;
   font-weight: 700;
@@ -159,6 +163,7 @@ nav ul li a .logo-img {
 
 .section {
   justify-content: center;
+  background-color:#f5f0f0
 }
 
 .section h2 {
